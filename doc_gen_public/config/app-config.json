@@ -1,0 +1,12 @@
+{
+  "timezone" : "UTC",
+  "locale" : "en_US",
+  "logLevel" : "INFO",
+  "frontendUrl" : "http://localhost:8081",
+  "docxToPdfConverterUrl" : "http://localhost:8082",
+  "allowedOrigins": [
+    "http://127.0.0.1:8081",
+    "http://localhost:8081",
+    "https://mlodaw.ski"
+  ]
+}
